@@ -9,10 +9,6 @@ a {
     text-decoration: none;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -70,6 +66,10 @@ body {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+body {
+    background-color: #d9dcd6;
 }
 
 .content {
